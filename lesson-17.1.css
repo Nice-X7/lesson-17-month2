@@ -283,10 +283,10 @@ body {
 /* -------(_Top content for rod_5_)------- */
 .intersted {
 	width: 75%;
-	padding-top: 80px;
+	padding-top: 50px;
 	display: flex;
 	border-bottom: 1px solid #fff;
-	height: 500px;
+	height: 320px;
 }
 .footer_text {
 	margin-left: 180px;
@@ -323,7 +323,7 @@ body {
 .afrianska {
 	display: flex;
 	justify-content: space-between;
-	margin-top: 80px;
+	margin-top: 50px;
 	padding-left: 180px;
 	width: 70%;
 }
